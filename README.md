@@ -1,6 +1,8 @@
 # Identitas
 Nama  : Shatyana Aika 
+
 NIM   : 12030121130111
+
 Analisis Desain Sistem-C
 
 I'm still learning
