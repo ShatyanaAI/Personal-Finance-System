@@ -14,26 +14,37 @@ Sebelum memulai penginstalan kita harus mengaktifkan XAMPP pada Apache dan MySQL
 
 # Cara Instalasi
 
-•	$ git clone https://github.com/ShatyanaAI/Personal-Finance-System/
+**Clone database ke localhost**
 
-•	$ cd project-folder
+•	'$ git clone' https://github.com/ShatyanaAI/Personal-Finance-System/
 
-•	$ composer install
+•	'$ cd project-folder'
 
-•	Selanjutnya rename file .env.example menjadi .env
+•	'$ composer install' atau 'composer.phar'
 
-•	$ php artisan key:generate
+•	Selanjutnya copy file '.env.example' paste, lalu rename menjadi '.env'
 
-•	Buat database dengan nama terserah 
+•	Buat database dengan nama bebas, sesuai keinginan 
 
-•	Kemudian insert di dalam file .env 
+•	Kemudian insert di dalam file '.env'
 
-•	$ php artisan migrate
+•	'$ php artisan key:generate'
 
-•	$ php artisan db:seed
+•	'$ php artisan migrate'
 
-•	$ php artisan serve
+•	'$ php artisan serve'
 
+**PHPRad Classic**
+
+•	Pilih menu 'new project'
+
+•	Isikan nama proyek
+
+•	Pilih database yang ingin kita pakai
+
+•	'Create project'
+
+•	Desain tampilan PHPRad tersebut sesuai dengan keinginan kita
 
 # Aplikasi yang dibutuhkan
 
