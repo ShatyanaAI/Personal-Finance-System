@@ -59,6 +59,7 @@ Sebelum memulai penginstalan kita harus mengaktifkan XAMPP pada Apache dan MySQL
 
 ![Screenshot 2022-12-16 200121](https://user-images.githubusercontent.com/119637481/208301101-51eed599-b109-4382-b063-ea2105bb5298.jpg)
 ![Desain tanpa judul (2)](https://user-images.githubusercontent.com/119637481/208301108-08a63cf9-ec6e-4dca-95b7-e137abbdee4b.png)
+![Screenshot 2022-12-16 195752](https://user-images.githubusercontent.com/119637481/208306633-7dbf3082-d8c9-4d0e-b712-0659084b3cde.jpg)
 ![Desain tanpa judul (1)](https://user-images.githubusercontent.com/119637481/208301112-c818c044-8693-4db5-b0ed-4f69a1f866b5.png)
 
 # Daftar Pustaka
