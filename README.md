@@ -3,7 +3,7 @@ Keuangan pribadi adalah sistem penyimpanan catatan keuangan pengguna tunggal. In
 Sebelum memulai penginstalan kita harus mengaktifkan XAMPP pada Apache dan MySQL untuk mengakses localhost.
 
 
-Cara instalasi:
+**Cara instalasi:**
 
 •	$ git clone https://github.com/ShatyanaAI/Personal-Finance-System/
 
@@ -26,7 +26,7 @@ Cara instalasi:
 •	$ php artisan serve
 
 
-Aplikasi yang dibutuhkan, yaitu:
+**Aplikasi yang dibutuhkan, yaitu:**
 
 •	XAMPP
 
@@ -34,7 +34,8 @@ Aplikasi yang dibutuhkan, yaitu:
 
 •	PHP Rad Classic
 
-SCREENSHOTS
+
+#SCREENSHOTS
 
 ![Screenshot 2022-12-16 200121](https://user-images.githubusercontent.com/119637481/208301101-51eed599-b109-4382-b063-ea2105bb5298.jpg)
 ![Desain tanpa judul (2)](https://user-images.githubusercontent.com/119637481/208301108-08a63cf9-ec6e-4dca-95b7-e137abbdee4b.png)
