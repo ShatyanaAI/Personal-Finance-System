@@ -16,7 +16,7 @@ Sebelum memulai penginstalan kita harus mengaktifkan XAMPP pada Apache dan MySQL
 
 **Clone database ke localhost**
 
-•	'$ git clone' https://github.com/ShatyanaAI/Personal-Finance-System/
+•	'''$ git clone''' https://github.com/ShatyanaAI/Personal-Finance-System/
 
 •	'$ cd project-folder'
 
