@@ -1,3 +1,10 @@
+# Identitas
+Nama  : Shatyana Aika 
+NIM   : 12030121130111
+Analisis Desain Sistem-C
+
+I'm still learning
+
 # Personal-Finance-System
 Keuangan pribadi adalah sistem penyimpanan catatan keuangan pengguna tunggal. Ini mendorong kita untuk mempertahankan kebiasaan pengeluaran berlebihan kita. Pada awalnya, kita harus membuat perkiraan jumlah pengeluaran yang disebut anggaran untuk jangka waktu tertentu. Setelah itu, ini membantu kita untuk melacak berapa banyak yang telah kita peroleh dan belanjakan dalam anggaran itu.
 Sebelum memulai penginstalan kita harus mengaktifkan XAMPP pada Apache dan MySQL untuk mengakses localhost.
