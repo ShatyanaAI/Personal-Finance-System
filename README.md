@@ -50,6 +50,8 @@ Sebelum memulai penginstalan kita harus mengaktifkan XAMPP pada Apache dan MySQL
 
 •	XAMPP
 
+•	Composer
+
 •	Git Bash
 
 •	PHP Rad Classic
